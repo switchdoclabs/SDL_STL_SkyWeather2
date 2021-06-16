@@ -2,6 +2,7 @@
 
 SwitchDoc Labs<BR>
 
+June 16, 2021 - Changed default alignments to match most slicers <BR>
 December 18, 2020 - Added Version 1.0 Fusion 360 Files<BR>
 December 6, 2020 - Verison 1.0 Initial Prints<BR>
 
